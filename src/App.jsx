@@ -4,9 +4,12 @@ import Todolist from './Todolist'
 
 function App() {
 
-
   return (
-     <Todolist/>
+    <>
+    <h1>Taskify</h1>
+        <Todolist/>
+    </>
+ 
   )
 }
 
